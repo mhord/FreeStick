@@ -1,0 +1,7 @@
+tags
+CapSense_CSD_Design01.cydsn/
+CellTest.cydsn/
+Joystick.cydsn/
+USBFS_HID01.cydsn/
+*.cywrk.*
+

@@ -1,0 +1,14 @@
+ComponentUpdateLog.txt
+codegentemp/
+Export/
+CortexM3/
+DP8051/
+Generated_Source/
+ARM_GCC_*/
+*.svd
+*.html
+*.rpt
+*.cycdx
+*.cyfit
+*.cyprj.*
+
